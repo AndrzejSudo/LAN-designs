@@ -9,7 +9,9 @@ All of them are aligned with Cisco Certified Network Associate level, as I was c
 Available networks:
 
 - Campus 	- 4 configured VLANs with centralized DHCP server. Inter-vlan routing done via SVIs on L3 switches, which are also configured as DHCP relay agents. ROAS interfces on routers and DHCP for IP addresses assignment to specific subnets. Floating static routes for default gateway were also configured between routers.
+
 - Office 	- 
+
 - Data center 	-
 
 ----------------
