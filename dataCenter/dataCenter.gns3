@@ -10,7 +10,7 @@
     "scene_height": 1000,
     "scene_width": 2000,
     "show_grid": true,
-    "show_interface_labels": false,
+    "show_interface_labels": true,
     "show_layers": false,
     "snap_to_grid": false,
     "supplier": null,
@@ -66,7 +66,7 @@
                 "drawing_id": "43810487-a778-4581-8158-76b9d3294375",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.250/30</text></svg>",
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.250/30</text></svg>",
                 "x": -295,
                 "y": -194,
                 "z": 2
@@ -75,25 +75,25 @@
                 "drawing_id": "87b1a571-4e5c-408f-9b85-f8f9c1b6517d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.254/30</text></svg>",
-                "x": -259,
-                "y": -229,
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.254/30</text></svg>",
+                "x": -248,
+                "y": -227,
                 "z": 2
             },
             {
                 "drawing_id": "2d0d4cba-38f3-4612-96a2-5187074c9ccd",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.253/30</text></svg>",
-                "x": -9,
-                "y": -228,
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.253/30</text></svg>",
+                "x": 6,
+                "y": -224,
                 "z": 2
             },
             {
                 "drawing_id": "bc001e42-6c4e-4dfa-8d0c-b573c382c7a3",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.246/30</text></svg>",
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.246/30</text></svg>",
                 "x": 26,
                 "y": -194,
                 "z": 2
@@ -138,7 +138,7 @@
                 "drawing_id": "85fd0375-503c-40ab-afaf-6ea065f89543",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"107\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VIP: 172.16.0.1</text></svg>",
+                "svg": "<svg width=\"91\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VIP: 172.16.0.1</text></svg>",
                 "x": -130,
                 "y": 11,
                 "z": 2
@@ -147,7 +147,7 @@
                 "drawing_id": "d8070da8-ed3f-43cb-98ce-c839d478b216",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"132\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.0/24</text></svg>",
+                "svg": "<svg width=\"100\" height=\"24\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.0/24</text></svg>",
                 "x": -146,
                 "y": -122,
                 "z": 2
@@ -156,7 +156,7 @@
                 "drawing_id": "f0bc5d06-f3c2-4b76-9df9-38efc81f8960",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"151\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.2/26</text></svg>",
+                "svg": "<svg width=\"127\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.2/26</text></svg>",
                 "x": -479,
                 "y": 11,
                 "z": 2
@@ -165,7 +165,7 @@
                 "drawing_id": "24a4b614-0641-4fe0-bb1e-02d7f308975d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"151\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.3/26</text></svg>",
+                "svg": "<svg width=\"127\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.3/26</text></svg>",
                 "x": 178,
                 "y": 10,
                 "z": 2
@@ -174,7 +174,7 @@
                 "drawing_id": "d277ebb5-895d-4ae2-9159-d299b8c6e67b",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.10/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.10/26</text></svg>",
                 "x": -491,
                 "y": 246,
                 "z": 2
@@ -183,7 +183,7 @@
                 "drawing_id": "17172c37-dddc-4129-941f-1a0f7ce12d8d",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.11/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.11/26</text></svg>",
                 "x": -372,
                 "y": 246,
                 "z": 2
@@ -192,7 +192,7 @@
                 "drawing_id": "97df82a3-74f9-4bd3-b3b5-56a5f8e2f227",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.12/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.12/26</text></svg>",
                 "x": -282,
                 "y": 245,
                 "z": 2
@@ -201,7 +201,7 @@
                 "drawing_id": "ab1544c9-a11d-4a6f-a2fb-24c3a01c51fa",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.13/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.13/26</text></svg>",
                 "x": -171,
                 "y": 246,
                 "z": 2
@@ -210,7 +210,7 @@
                 "drawing_id": "8be7a40d-cfad-4ffa-8b41-edad9326e407",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.14/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.14/26</text></svg>",
                 "x": -39,
                 "y": 248,
                 "z": 2
@@ -219,7 +219,7 @@
                 "drawing_id": "fd1fac10-1379-4275-9d36-d0061fe82786",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.15/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.15/26</text></svg>",
                 "x": 76,
                 "y": 246,
                 "z": 2
@@ -228,7 +228,7 @@
                 "drawing_id": "5e0773b3-ac76-4be4-b1bf-c96d1d926123",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.17/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.17/26</text></svg>",
                 "x": 286,
                 "y": 245,
                 "z": 2
@@ -237,7 +237,7 @@
                 "drawing_id": "eda0b451-af59-4e85-8c09-8c09610695b1",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"52\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.16/26</text></svg>",
+                "svg": "<svg width=\"45\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">.16/26</text></svg>",
                 "x": 166,
                 "y": 246,
                 "z": 2
@@ -255,7 +255,7 @@
                 "drawing_id": "0ff5ebcf-064b-49a5-bb0d-27f26d3aa9ea",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po1</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po1</text></svg>",
                 "x": -406,
                 "y": -180,
                 "z": 2
@@ -264,7 +264,7 @@
                 "drawing_id": "5b428881-312d-45cc-97f4-94611a0a997c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po1</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po1</text></svg>",
                 "x": 220,
                 "y": -180,
                 "z": 2
@@ -273,7 +273,7 @@
                 "drawing_id": "1fde0aa6-17a4-4ef0-a2cb-e99a18f2b47c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
                 "x": 258,
                 "y": -113,
                 "z": 2
@@ -282,7 +282,7 @@
                 "drawing_id": "e8e893e0-278a-4889-b40b-71372f00bebc",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
                 "x": -372,
                 "y": -153,
                 "z": 2
@@ -291,7 +291,7 @@
                 "drawing_id": "bae17351-fcf7-43ca-87d9-d73595a26a74",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
                 "x": 200,
                 "y": -154,
                 "z": 2
@@ -300,7 +300,7 @@
                 "drawing_id": "bfa9cd76-7b98-4dbf-a27c-94ece3fbd815",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
                 "x": -420,
                 "y": -135,
                 "z": 2
@@ -309,7 +309,7 @@
                 "drawing_id": "c388ac5e-1d61-4371-b06c-ce43c47fea08",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
                 "x": -341,
                 "y": -57,
                 "z": 2
@@ -318,7 +318,7 @@
                 "drawing_id": "4af69abd-8e8d-490a-b8f8-4333a9537026",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
                 "x": -189,
                 "y": -34,
                 "z": 2
@@ -327,7 +327,7 @@
                 "drawing_id": "7c5e5344-3d33-4d3e-9817-4eabed7f1835",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po2</text></svg>",
                 "x": 47,
                 "y": -40,
                 "z": 2
@@ -336,7 +336,7 @@
                 "drawing_id": "8000b7fc-9554-41e5-bbd3-3f7748d40003",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"32\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
+                "svg": "<svg width=\"29\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Po3</text></svg>",
                 "x": 190,
                 "y": -44,
                 "z": 2
@@ -345,7 +345,7 @@
                 "drawing_id": "156f2052-2faf-436c-99d0-b7ff0f35896b",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"151\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.4/26</text></svg>",
+                "svg": "<svg width=\"127\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.4/26</text></svg>",
                 "x": -585,
                 "y": -123,
                 "z": 2
@@ -354,7 +354,7 @@
                 "drawing_id": "ec6b086c-0db6-44f3-a4b8-4b0e16f720bf",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"151\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.5/26</text></svg>",
+                "svg": "<svg width=\"127\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">VLAN1: 172.16.0.5/26</text></svg>",
                 "x": 300,
                 "y": -122,
                 "z": 2
@@ -363,7 +363,7 @@
                 "drawing_id": "ae632988-6f99-4f35-b7bc-76c6bb0b55be",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.245/30</text></svg>",
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.245/30</text></svg>",
                 "x": 31,
                 "y": -65,
                 "z": 2
@@ -372,7 +372,7 @@
                 "drawing_id": "20ed6a2c-e0d4-4913-9b80-b5efb3d00957",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"116\" height=\"24\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.249/30</text></svg>",
+                "svg": "<svg width=\"100\" height=\"21\"><text font-family=\"MS Shell Dlg 2\" font-size=\"8.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">172.16.0.249/30</text></svg>",
                 "x": -294,
                 "y": -55,
                 "z": 2
@@ -1401,10 +1401,10 @@
                     "md5sum": "2eabae17778316c49cbc80e8e81262f9",
                     "nvram": 64,
                     "path": "i86bi-linux-l3-adventerprisek9-15.4.1T.bin",
-                    "ram": 256,
+                    "ram": 512,
                     "serial_adapters": 2,
                     "usage": "",
-                    "use_default_iou_values": true
+                    "use_default_iou_values": false
                 },
                 "symbol": ":/symbols/affinity/circle/blue/router.svg",
                 "template_id": "dc764a98-6448-43d2-9634-566711daac93",
@@ -1561,10 +1561,10 @@
                     "md5sum": "2eabae17778316c49cbc80e8e81262f9",
                     "nvram": 64,
                     "path": "i86bi-linux-l3-adventerprisek9-15.4.1T.bin",
-                    "ram": 256,
+                    "ram": 512,
                     "serial_adapters": 2,
                     "usage": "",
-                    "use_default_iou_values": true
+                    "use_default_iou_values": false
                 },
                 "symbol": ":/symbols/affinity/circle/blue/router.svg",
                 "template_id": "dc764a98-6448-43d2-9634-566711daac93",
