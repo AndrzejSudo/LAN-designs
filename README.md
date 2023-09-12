@@ -23,6 +23,6 @@ Available networks:
 
 ----------------
 
-
-
+- Small Office/Home Office - star-hybrid topology utilizing Lightweight Wireless Access Points, managed by Wireless LAN Controller, via CAPWAP tunnel. LWAPs operate in FlexConnect mode, without sending data traffic through WLC. LWAPs form ESS network and share same SSID for redundancy - if one of the APs fails, its clients will automatically connect to other AP. WLC and LWAPs are part of management VLAN 10 and wireless clients are placed in VLAN 100. WLC provides IP addresses for devices in VLAN 10 and router R1 is DHCP server for clients in VLAN 100. Trunk links on switch and ROAS sub-interfaces on router have been configured to allow communication between VLANs.
+![design](SOHO/Design.jpg?raw=true "SOHO network") 
 
